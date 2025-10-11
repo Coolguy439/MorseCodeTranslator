@@ -1,0 +1,3 @@
+/home/rootuser/C++/morseCodeProject/build/CMakeFiles/MorseCodeTranslatorC++.dir
+/home/rootuser/C++/morseCodeProject/build/CMakeFiles/edit_cache.dir
+/home/rootuser/C++/morseCodeProject/build/CMakeFiles/rebuild_cache.dir

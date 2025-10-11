@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/MorseCodeTranslatorC++.dir/link.d CMakeFiles/MorseCodeTranslatorC++.dir/morseCodeTranslator.cpp.o -o MorseCodeTranslatorC++
